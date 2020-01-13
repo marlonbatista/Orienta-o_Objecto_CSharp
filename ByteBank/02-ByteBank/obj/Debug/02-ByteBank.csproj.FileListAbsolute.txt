@@ -1,0 +1,6 @@
+C:\Users\marlon.batista\Documents\Cursos\DotNet\OO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+C:\Users\marlon.batista\Documents\Cursos\DotNet\OO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+C:\Users\marlon.batista\Documents\Cursos\DotNet\OO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+C:\Users\marlon.batista\Documents\Cursos\DotNet\OO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\marlon.batista\Documents\Cursos\DotNet\OO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+C:\Users\marlon.batista\Documents\Cursos\DotNet\OO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb
